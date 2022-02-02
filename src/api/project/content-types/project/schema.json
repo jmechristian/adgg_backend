@@ -22,8 +22,8 @@
     "size": {
       "type": "string"
     },
-    "details": {
-      "type": "text"
+    "type": {
+      "type": "string"
     },
     "hero": {
       "type": "media",
@@ -50,6 +50,9 @@
       "relation": "manyToMany",
       "target": "api::category.category",
       "inversedBy": "projects"
+    },
+    "details": {
+      "type": "text"
     }
   }
 }
