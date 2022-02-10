@@ -53,6 +53,18 @@
     },
     "details": {
       "type": "text"
+    },
+    "quote": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    },
+    "collaborators": {
+      "type": "text"
+    },
+    "quote_attribution": {
+      "type": "string"
     }
   }
 }
