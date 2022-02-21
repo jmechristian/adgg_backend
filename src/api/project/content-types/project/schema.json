@@ -65,6 +65,9 @@
     },
     "quote_attribution": {
       "type": "string"
+    },
+    "subcategory": {
+      "type": "string"
     }
   }
 }
