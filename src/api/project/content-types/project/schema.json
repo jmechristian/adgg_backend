@@ -68,6 +68,14 @@
     },
     "subcategory": {
       "type": "string"
+    },
+    "featured": {
+      "type": "boolean",
+      "default": false
+    },
+    "grid_order": {
+      "type": "integer",
+      "unique": true
     }
   }
 }
