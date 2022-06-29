@@ -14,11 +14,12 @@
     "@strapi/plugin-users-permissions": "4.1.0",
     "@strapi/provider-upload-cloudinary": "^4.1.0",
     "@strapi/strapi": "4.1.0",
-    "sqlite3": "5.0.2",
-    "strapi-plugin-import-export-content": "^0.4.2",
     "file-saver": "^2.0.2",
     "pluralize": "^8.0.0",
-    "strapi-helper-plugin": "^3.2.5"
+    "sqlite3": "5.0.2",
+    "strapi-helper-plugin": "^3.2.5",
+    "strapi-plugin-import-export-content": "^0.4.2",
+    "strapi-provider-upload-do": "^3.6.6"
   },
   "author": {
     "name": "Akseizer Design Group"
